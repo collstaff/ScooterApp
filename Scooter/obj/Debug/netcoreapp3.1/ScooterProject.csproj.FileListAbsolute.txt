@@ -1,0 +1,14 @@
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.csproj.AssemblyReference.cache
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.AssemblyInfoInputs.cache
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.AssemblyInfo.cs
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.csproj.CoreCompileInputs.cache
+C:\Users\Collin\source\repos\Scooter\Scooter\bin\Debug\netcoreapp3.1\ScooterProject.exe
+C:\Users\Collin\source\repos\Scooter\Scooter\bin\Debug\netcoreapp3.1\ScooterProject.deps.json
+C:\Users\Collin\source\repos\Scooter\Scooter\bin\Debug\netcoreapp3.1\ScooterProject.runtimeconfig.json
+C:\Users\Collin\source\repos\Scooter\Scooter\bin\Debug\netcoreapp3.1\ScooterProject.runtimeconfig.dev.json
+C:\Users\Collin\source\repos\Scooter\Scooter\bin\Debug\netcoreapp3.1\ScooterProject.dll
+C:\Users\Collin\source\repos\Scooter\Scooter\bin\Debug\netcoreapp3.1\ScooterProject.pdb
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.dll
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.pdb
+C:\Users\Collin\source\repos\Scooter\Scooter\obj\Debug\netcoreapp3.1\ScooterProject.genruntimeconfig.cache
